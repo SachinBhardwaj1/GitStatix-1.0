@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+requests
+statsmodels
+prophet
+tensorflow
+scikit-learn
+elasticsearch
+openai
+python-dotenv
+flask
+dashplotly
